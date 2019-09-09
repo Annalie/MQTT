@@ -1,4 +1,4 @@
-
+//basic functionality
 $(document).ready(function () {
   var client = null;
 
